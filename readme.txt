@@ -1,2 +1,3 @@
 It's a git study project.
-Git is a version control system.
+Git is a distributed version control system.
+Now it's modified.
